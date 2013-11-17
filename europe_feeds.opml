@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+ <head>
+  <title>European News</title>
+ </head>
+ <body>
+  <outline title="Europe" icon="">
+   <outline title="News from EUobserver.com" type="rss" xmlUrl="http://feeds.euobserver.com/rss/9" htmlUrl="http://euobserver.com"/>
+   <outline title="BBC News - Europe" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/europe/rss.xml" htmlUrl="http://www.bbc.co.uk/news/world/europe/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa"/>
+   <outline title="Guardian Europe roundup" type="rss" xmlUrl="http://www.theguardian.com/world/europe/roundup/rss" htmlUrl="http://www.theguardian.com/world/europe/roundup"/>
+   <outline title="Presseurop" type="rss" xmlUrl="http://www.presseurop.eu/en/feed/rss/all.xml" htmlUrl="http://www.presseurop.eu/en"/>
+   <outline title="europe - Google News" type="rss" xmlUrl="http://news.google.com/news?q=europe&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=europe"/>
+   <outline title="europe yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=europe&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="europe - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=europe&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=europe&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="europe - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=europe&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=europe&amp;tbm=blg"/>
+   <outline title="Headlines - European Parliament" type="rss" xmlUrl="http://www.europarl.europa.eu/rss/doc/press-releases/en.xml" htmlUrl="http://www.europarl.europa.eu/news/en/news-room/press-release"/>
+   <outline title="European Commission - All the latest news from the Commission" type="rss" xmlUrl="http://ec.europa.eu/hp_webfiles/rss/ec_news_en.rss" htmlUrl="http://www.ec.europa.eu/index_en.htm"/>
+   <outline title="Lithuanian Presidency of the Council of the European Union 2013" type="rss" xmlUrl="http://www.eu2013.lt/xml/en/news/rss" htmlUrl="http://www.eu2013.lt/en/news"/>
+   <outline title="&lt;a href=&quot;http:&amp;#x2F;&amp;#x2F;www.europeanvoice.com&quot; target=&quot;_blank&quot;&gt;European Voice - RSS&lt;/a&gt;" type="rss" xmlUrl="http://www.europeanvoice.com/Rss/2.xml" htmlUrl="http://www.europeanvoice.com"/>
+   <outline title="Social Search: 'european union' (en_US)" query="european union" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+   <outline title="Financial Times News - Europe - Top Stories" type="rss" xmlUrl="http://ft.rss.infodesk.com/rss/rss_ftonline7_063663.xml" htmlUrl="http://www.ft.com"/>
+   <outline title="CEP Blog" type="rss" xmlUrl="http://cep.rhul.ac.uk/cep-blog/rss.xml" htmlUrl="http://cep.rhul.ac.uk/cep-blog/"/>
+   <outline title="Charlemagne" type="rss" xmlUrl="http://feeds.feedburner.com/CharlemagnesNotebook" htmlUrl="http://www.economist.com/node/21003992/index.xml"/>
+   <outline title="Brussels blog" type="rss" xmlUrl="http://feeds2.feedburner.com/ft/brusselsblog" htmlUrl="http://blogs.ft.com/brusselsblog"/>
+   <outline title="Open Europe blog" type="rss" xmlUrl="http://feeds.feedburner.com/blogspot/gyynM" htmlUrl="http://openeuropeblog.blogspot.com/"/>
+   <outline title="European Union News" type="rss" xmlUrl="http://www.ft.com/rss/brussels" htmlUrl="http://www.ft.com/world/europe/brussels"/>
+   <outline title="World news : Europe roundup" type="rss" xmlUrl="http://www.theguardian.com/world/europe/roundup/rss" htmlUrl="http://www.theguardian.com/world/europe/roundup"/>
+   <outline title="Bruegel - Latest Updates" type="rss" xmlUrl="http://www.bruegel.org/rss/" htmlUrl="http://www.bruegel.org"/>
+   <outline title="EPC - European Policy Centre - Independent think tank" type="rss" xmlUrl="http://www.epc.eu/rss.php" htmlUrl="http://www.epc.eu"/>
+   <outline title="europe - WordPress.com Search" type="rss" xmlUrl="http://en.search.wordpress.com/?q=europe&amp;f=feed" htmlUrl="http://en.search.wordpress.com/?q=europe"/>
+   <outline title="rss for &quot;europe /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/europe+/news+/rss" htmlUrl="http://www.freep.com/article/20131105/BUSINESS/311050136/1210/business01"/>
+  </outline>
+  <outline title="albania" icon="">
+   <outline title="Travel: Albania | theguardian.com" type="rss" xmlUrl="http://www.theguardian.com/travel/albania/rss" htmlUrl="http://www.theguardian.com/travel/albania"/>
+   <outline title="News Search: 'albania' (en_US)" query="albania" engines="google-news,bing-news,yahoo-news" lang="en_US" locale="en_US"/>
+   <outline title="Tirana Times News" type="rss" xmlUrl="http://feeds2.feedburner.com/TiranaTimesNews" htmlUrl="http://www./"/>
+   <outline title="Blog Search: 'albania' (en_US)" query="albania" engines="google-blog,twingly" lang="en_US" locale="en_US"/>
+   <outline title="Social Search: 'albania' (en_US)" query="albania" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+  </outline>
+  <outline title="austria" icon="">
+   <outline title="austria - Google News" type="rss" xmlUrl="http://news.google.com/news?q=austria&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=austria"/>
+   <outline title="World news: Austria | theguardian.com" type="rss" xmlUrl="http://www.theguardian.com/world/austria/rss" htmlUrl="http://www.theguardian.com/world/austria"/>
+   <outline title="Austria news, all the latest and breaking Austrian&#10;news" type="rss" xmlUrl="http://www.telegraph.co.uk/news/worldnews/europe/austria/rss" htmlUrl="http://www.telegraph.co.uk/news/worldnews/europe/austria/"/>
+   <outline title="Austria - Activity on GOV.UK" type="rss" xmlUrl="https://www.gov.uk/government/world/austria.atom" htmlUrl="https://www.gov.uk/government"/>
+   <outline title="austria - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=austria&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=austria&amp;tbm=blg"/>
+   <outline title="austria yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=austria&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="austria - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=austria&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=austria&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="FriedlNews" type="rss" xmlUrl="http://www.friedlnews.com/rss/" htmlUrl="http://www.friedlnews.com/rss"/>
+   <outline title="Austrian Times" type="rss" xmlUrl="http://austriantimes.at/RSS-Feed/159/General_News" htmlUrl="http://www.austriantimes.at"/>
+   <outline title="Social Search: 'austria scotland' (en_US)" query="austria scotland" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+   <outline title="austria - WordPress.com Search" type="rss" xmlUrl="http://en.search.wordpress.com/?q=austria&amp;f=feed" htmlUrl="http://en.search.wordpress.com/?q=austria"/>
+   <outline title="rss for &quot;austria /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/austria+/news+/rss" htmlUrl="http://abclocal.go.com/kabc/video?id=9116100"/>
+  </outline>
+  <outline title="belgium" icon="">
+   <outline title="belgium - Google News" type="rss" xmlUrl="http://news.google.com/news?q=belgium&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=belgium"/>
+   <outline title="World news: Belgium | theguardian.com" type="rss" xmlUrl="http://www.theguardian.com/world/belgium/rss" htmlUrl="http://www.theguardian.com/world/belgium"/>
+   <outline title="Belgium news, all the latest and breaking Belgian&#10;news" type="rss" xmlUrl="http://www.telegraph.co.uk/news/worldnews/europe/belgium/rss" htmlUrl="http://www.telegraph.co.uk/news/worldnews/europe/belgium/"/>
+   <outline title="Belgium - Activity on GOV.UK" type="rss" xmlUrl="https://www.gov.uk/government/world/belgium.atom" htmlUrl="https://www.gov.uk/government"/>
+   <outline title="belgium yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=belgium&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="belgium - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=belgium&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=belgium&amp;tbm=blg"/>
+   <outline title="belgium - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=belgium&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=belgium&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="Social Search: 'Belgium news' (en_US)" query="Belgium news" engines="facebook-search,twitter-search,boardreader,google-plus-search" lang="en_US" locale="en_US"/>
+   <outline title="belgium - WordPress.com Search" type="rss" xmlUrl="http://en.search.wordpress.com/?q=belgium&amp;f=feed" htmlUrl="http://en.search.wordpress.com/?q=belgium"/>
+   <outline title="&lt;a href=&quot;http:&amp;#x2F;&amp;#x2F;belgium.angloinfo.com&quot; target=&quot;_blank&quot;&gt;Belgium » Belgium News&lt;/a&gt;" type="rss" xmlUrl="http://belgium.angloinfo.com/inside/news/feed/rss/" htmlUrl="http://belgium.angloinfo.com"/>
+   <outline title="rss for &quot;belgium /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/belgium+/news+/rss" htmlUrl="http://www.sbsun.com/science/20131008/2013-nobel-prize-in-physics-goes-to-scientists-from-belgium-britain"/>
+  </outline>
+  <outline title="bosnia &amp; herzegovina" icon="">
+   <outline title="World news: Bosnia-Herzegovina | theguardian.com" type="rss" xmlUrl="http://www.theguardian.com/world/bosnia-and-herzegovina/rss" htmlUrl="http://www.theguardian.com/world/bosnia-and-herzegovina"/>
+   <outline title="Bosnia and Herzegovina - Activity on GOV.UK" type="rss" xmlUrl="https://www.gov.uk/government/world/bosnia-and-herzegovina.atom" htmlUrl="https://www.gov.uk/government"/>
+   <outline title="News Search: 'bosnia &amp; herzegovina' (en_US)" query="bosnia &amp; herzegovina" engines="bing-news,yahoo-news" lang="en_US" locale="en_US"/>
+   <outline title="Sarajevo Times" type="rss" xmlUrl="http://www.sarajevotimes.com/feed/" htmlUrl="http://www.sarajevotimes.com"/>
+   <outline title="Blog Search: 'bosnia &amp; herzegovina' (en_US)" query="bosnia &amp; herzegovina" engines="google-blog,twingly" lang="en_US" locale="en_US"/>
+   <outline title="Social Search: 'bosnia &amp; herzegovina' (en_US)" query="bosnia &amp; herzegovina" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+  </outline>
+  <outline title="bulgaria" icon="">
+   <outline title="bulgaria - Google News" type="rss" xmlUrl="http://news.google.com/news?q=bulgaria&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=bulgaria"/>
+   <outline title="World news: Bulgaria | guardian.co.uk" type="rss" xmlUrl="http://www.theguardian.com/world/bulgaria/rss" htmlUrl="http://www.theguardian.com/world/bulgaria"/>
+   <outline title="bulgaria yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=bulgaria&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="bulgaria - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=bulgaria&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=bulgaria&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="bulgaria - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=bulgaria&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=bulgaria&amp;tbm=blg"/>
+   <outline title="Novinite.com (Sofia News Agency)" type="rss" xmlUrl="http://www.novinite.com/services/news_rdf.php?category_id=22" htmlUrl="http://www.novinite.com/"/>
+   <outline title="Latest News from Bulgaria" type="rss" xmlUrl="http://www.balkaninsight.com/en/rss/bulgaria-news-latest" htmlUrl="http://www.balkaninsight.com/en/rss/bulgaria-news-latest"/>
+   <outline title="www.government.bg - News" type="rss" xmlUrl="http://www.government.bg/cgi-bin/e-cms/rss.pl?ch=0002" htmlUrl="http://www.government.bg/cgi-bin/e-cms/vis/vis.pl?s=001&amp;p=0234"/>
+   <outline title="Novinite.com (Sofia News Agency)" type="rss" xmlUrl="http://www.novinite.com/services/news_rdf.php" htmlUrl="http://www.novinite.com/"/>
+   <outline title="Sofiaecho.com News" type="rss" xmlUrl="http://www.sofiaecho.com/rss/" htmlUrl="http://www.sofiaecho.com/rss/index.php?transname=top-stories"/>
+   <outline title="rss for &quot;bulgaria /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/bulgaria+/news+/rss" htmlUrl="http://timesleader.com/apps/pbcs.dll/article?avis=TL&amp;date=20130127&amp;category=news&amp;lopenr=301279709&amp;Ref=AR"/>
+   <outline title="Social Search: 'bulgariCA' (en_GB)" query="bulgariCA" engines="facebook-search,twitter-search" lang="en_GB" locale="en_GB"/>
+  </outline>
+  <outline title="croatia" icon="">
+   <outline title="croatia - Google News" type="rss" xmlUrl="http://news.google.com/news?q=croatia&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=croatia"/>
+   <outline title="World news: Croatia | guardian.co.uk" type="rss" xmlUrl="http://www.theguardian.com/world/croatia/rss" htmlUrl="http://www.theguardian.com/world/croatia"/>
+   <outline title="croatia yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=croatia&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="croatia - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=croatia&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=croatia&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="croatia - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=croatia&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=croatia&amp;tbm=blg"/>
+   <outline title="Latest News from Croatia" type="rss" xmlUrl="http://www.balkaninsight.com/en/rss/croatia-news-latest" htmlUrl="http://www.balkaninsight.com/en/rss/croatia-news-latest"/>
+   <outline title="News and announcements" type="rss" xmlUrl="http://www.vlada.hr/en/rss/feed/novosti_i_najave_en" htmlUrl="http://www.vlada.hr/en"/>
+   <outline title="Social Search" query="@Cro_Amb_Grdesic" engines="facebook-search,twitter-search" lang="en_GB" locale="en_GB"/>
+   <outline title="Croatia" type="rss" xmlUrl="http://www.economist.com/topics/croatia/index.xml" htmlUrl="http://www.economist.com/topics/croatia"/>
+   <outline title="croatia - WordPress.com Search" type="rss" xmlUrl="http://en.search.wordpress.com/?q=croatia&amp;f=feed" htmlUrl="http://en.search.wordpress.com/?q=croatia"/>
+  </outline>
+  <outline title="cyprus" icon="">
+   <outline title="cyprus - Google News" type="rss" xmlUrl="http://news.google.com/news?q=cyprus&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=cyprus"/>
+   <outline title="Guardian news feed - Cyprus" type="rss" xmlUrl="http://www.theguardian.com/world/cyprus/rss" htmlUrl="http://www.theguardian.com/world/cyprus"/>
+   <outline title="cyprus yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=cyprus&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="cyprus - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=cyprus&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=cyprus&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="cyprus - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=cyprus&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=cyprus&amp;tbm=blg"/>
+   <outline title="&lt;a href=&quot;http:&amp;#x2F;&amp;#x2F;www.cyprus-mail.com&quot; target=&quot;_blank&quot;&gt;Cyprus Mail&lt;/a&gt;" type="rss" xmlUrl="http://cyprus-mail.com/feed/" htmlUrl="http://cyprus-mail.com"/>
+   <outline title="CyBC - Cyprus News" type="rss" xmlUrl="http://www.cybc.com.cy/en/index.php/rss/cybc-cyprus-news" htmlUrl="http://www.cybc.com.cy/en/"/>
+   <outline title="Cyprus - Financial Mirror feed" type="rss" xmlUrl="http://www.financialmirror.com/rss/getRss.php?module=newsCategory_1" htmlUrl="http://www.financialmirror.com/News/newsCategory_1.rss"/>
+   <outline title="FCO feed - Inside government - Cyprus" type="rss" xmlUrl="https://www.gov.uk/government/world/cyprus.atom" htmlUrl="https://www.gov.uk/government"/>
+   <outline title="Cyprus News Report - Fast-breaking Cyprus News" type="rss" xmlUrl="http://www.cyprusnewsreport.com/?q=rss.xml" htmlUrl="http://www.cyprusnewsreport.com/?q=frontpage"/>
+   <outline title="Social Search: 'ukincyprus' (en_US)" query="ukincyprus" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+   <outline title="cyprus - WordPress.com Search" type="rss" xmlUrl="http://en.search.wordpress.com/?q=cyprus&amp;f=feed" htmlUrl="http://en.search.wordpress.com/?q=cyprus"/>
+   <outline title="rss for &quot;cyprus /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/cyprus+/news+/rss" htmlUrl="http://www.lasvegassun.com/news/2013/oct/28/eu-cyprus-wedding-theft/"/>
+  </outline>
+  <outline title="czech republic" icon="">
+   <outline title="czech republic - Google News" type="rss" xmlUrl="http://news.google.com/news?q=czech republic&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=czech+republic"/>
+   <outline title="World news: Czech Republic | guardian.co.uk" type="rss" xmlUrl="http://www.theguardian.com/world/czech-republic/rss" htmlUrl="http://www.theguardian.com/world/czech-republic"/>
+   <outline title="czech republic yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=czech republic&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="czech republic - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=czech republic&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=czech+republic&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="czech republic - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=czech republic&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=czech+republic&amp;tbm=blg"/>
+   <outline title="Czech Happenings" type="rss" xmlUrl="http://www.ceskenoviny.cz/sluzby/rss/english.php" htmlUrl="http://www.ceskenoviny.cz/news/"/>
+   <outline title="Visegradrevue" type="rss" xmlUrl="http://visegradrevue.eu/?feed=rss2" htmlUrl="http://visegradrevue.eu"/>
+   <outline title="czech republic - WordPress.com Search" type="rss" xmlUrl="http://en.search.wordpress.com/?q=czech republic&amp;f=feed" htmlUrl="http://en.search.wordpress.com/?q=czech+republic"/>
+   <outline title="rss for &quot;czech republic /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/czech republic+/news+/rss" htmlUrl="http://www.ktvz.com/sports/Czech-Republic-seal-Davis-Cup-glory/-/412778/17464146/-/138im5kz/-/index.html"/>
+   <outline title="Social Search" query="ukinczech" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+  </outline>
+  <outline title="denmark" icon="">
+   <outline title="World news: Denmark | theguardian.com" type="rss" xmlUrl="http://www.theguardian.com/world/denmark/rss" htmlUrl="http://www.theguardian.com/world/denmark"/>
+   <outline title="denmark - Google News" type="rss" xmlUrl="http://news.google.com/news?q=denmark&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=denmark"/>
+   <outline title="denmark yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=denmark&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="denmark - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=denmark&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=denmark&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="denmark - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=denmark&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=denmark&amp;tbm=blg"/>
+   <outline title="Politiken.dk - News in English" type="rss" xmlUrl="http://politiken.dk/rss/newsinenglish.rss" htmlUrl="http://politiken.dk/"/>
+   <outline title="The Copenhagen Post" type="rss" xmlUrl="http://cphpost.dk/rss.xml" htmlUrl="http://cphpost.dk"/>
+   <outline title="Social Search: 'denmark news' (en_US)" query="denmark news" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+   <outline title="denmark - WordPress.com Search" type="rss" xmlUrl="http://en.search.wordpress.com/?q=denmark&amp;f=feed" htmlUrl="http://en.search.wordpress.com/?q=denmark"/>
+   <outline title="rss for &quot;denmark /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/denmark+/news+/rss" htmlUrl="http://abcnews.go.com/International/denmark-saved-jews-nazis/story?id=20750027"/>
+  </outline>
+  <outline title="estonia" icon="">
+   <outline title="estonia - Google News" type="rss" xmlUrl="http://news.google.com/news?q=estonia&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=estonia"/>
+   <outline title="World news: Estonia | theguardian.com" type="rss" xmlUrl="http://www.theguardian.com/world/estonia/rss" htmlUrl="http://www.theguardian.com/world/estonia"/>
+   <outline title="estonia yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=estonia&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="estonia - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=estonia&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=estonia&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="estonia - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=estonia&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=estonia&amp;tbm=blg"/>
+   <outline title="www.bbn.ee" type="rss" xmlUrl="http://bbn.ee.feedsportal.com/c/33176/f/545933/index.rss" htmlUrl="http://www.balticbusinessnews.com/"/>
+   <outline title="News from Estonia, Latvia and Lithuania. The Baltic&#10;Times." type="rss" xmlUrl="http://feeds.feedburner.com/TheBalticTimes" htmlUrl="http://www.baltictimes.com"/>
+   <outline title="Social Search: 'estonia news' (en_US)" query="estonia news" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+   <outline title="estonia - WordPress.com Search" type="rss" xmlUrl="http://en.search.wordpress.com/?q=estonia&amp;f=feed" htmlUrl="http://en.search.wordpress.com/?q=estonia"/>
+   <outline title="rss for &quot;estonia /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/estonia+/news+/rss" htmlUrl="http://www.csmonitor.com/World/Global-News/2013/1026/A-first-for-Estonia-an-elected-black-politician"/>
+  </outline>
+  <outline title="Faroe islands" icon="">
+   <outline title="News Search: 'faroe islands' (en_US)" query="faroe islands" engines="bing-news,yahoo-news" lang="en_US" locale="en_US"/>
+   <outline title="Blog Search: 'faroe islands' (en_US)" query="faroe islands" engines="google-blog,twingly" lang="en_US" locale="en_US"/>
+  </outline>
+  <outline title="finland" icon="">
+   <outline title="finland - Google News" type="rss" xmlUrl="http://news.google.com/news?q=finland&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=finland"/>
+   <outline title="World news: Finland | theguardian.com" type="rss" xmlUrl="http://www.theguardian.com/world/finland/rss" htmlUrl="http://www.theguardian.com/world/finland"/>
+   <outline title="finland yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=finland&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="finland - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=finland&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=finland&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="finland - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=finland&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=finland&amp;tbm=blg"/>
+   <outline title="Social Search: 'finland times' (en_US)" query="finland times" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+   <outline title="finland - WordPress.com Search" type="rss" xmlUrl="http://en.search.wordpress.com/?q=finland&amp;f=feed" htmlUrl="http://en.search.wordpress.com/?q=finland"/>
+   <outline title="rss for &quot;finland /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/finland+/news+/rss" htmlUrl="http://msn.foxsports.com/foxsoccer/intlfriendly/matchtrax/Mexico-vs-Finland-20131030-2013103010186"/>
+  </outline>
+  <outline title="france" icon="">
+   <outline title="france - Google News" type="rss" xmlUrl="http://news.google.com/news?q=france&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=france"/>
+   <outline title="World news: France | guardian.co.uk" type="rss" xmlUrl="http://feeds.theguardian.com/theguardian/world/france/rss" htmlUrl="http://www.theguardian.com/world/france"/>
+   <outline title="FCO - Inside government news - France" type="rss" xmlUrl="https://www.gov.uk/government/world/france.atom" htmlUrl="https://www.gov.uk/government"/>
+   <outline title="France news, all the latest and breaking French news" type="rss" xmlUrl="http://www.telegraph.co.uk/news/worldnews/europe/france/rss" htmlUrl="http://www.telegraph.co.uk/news/worldnews/europe/france/"/>
+   <outline title="france yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=france&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="france - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=france&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=france&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="UKTI blog" type="rss" xmlUrl="http://feeds.feedburner.com/ukti-blog" htmlUrl="http://blog.ukti.gov.uk"/>
+   <outline title="Blog Search: 'http://feeds.feedburner.com/FCOBloggerPeterRicketts'" query="http://feeds.feedburner.com/FCOBloggerPeterRicketts" engines="google-blog,twingly,wordpress" lang="" locale=""/>
+   <outline title="France-Diplomatie - News" type="rss" xmlUrl="http://www.diplomatie.gouv.fr/en/spip.php?page=backend-fd&amp;id_rubrique=1" htmlUrl="http://www.diplomatie.gouv.fr/en"/>
+   <outline title="Latest news reports on FRANCE, French politics and culture" type="rss" xmlUrl="http://www.france24.com/en/france/rss" htmlUrl="http://www.france24.com/en"/>
+   <outline title="Latest news reports on FRANCE, French politics and culture" type="rss" xmlUrl="http://www.france24.com/en/france/rss" htmlUrl="http://www.france24.com/en"/>
+   <outline title="France 24 - Europe" type="rss" xmlUrl="http://www.france24.com/en/europe/rss-mailing" htmlUrl="http://www.france24.com/en/taxonomy/term/9/all"/>
+   <outline title="Blog Search: 'uk, scotland and france'" query="uk, scotland and france" engines="google-blog,twingly,wordpress" lang="" locale=""/>
+   <outline title="French Chamber of Commerce in the UK" type="rss" xmlUrl="http://www.ccfgb.co.uk/rss/7-members-news" htmlUrl="http://www.ccfgb.co.uk/"/>
+   <outline title="Twitter search: '#france #news'" query="#france #news" engines="twitter-search" lang="" locale=""/>
+   <outline title="France in the United Kingdom &#10;Royaume-Uni" type="rss" xmlUrl="http://www.ambafrance-uk.org/spip.php?page=backend&amp;id_secteur=2" htmlUrl="http://www.ambafrance-uk.org/"/>
+   <outline title="French Institute in Scotland" type="rss" xmlUrl="http://www.ifecosse.org.uk/spip.php?page=backend&amp;lang=en" htmlUrl="http://www.ifecosse.org.uk/"/>
+   <outline title="Paris News latest RSS headlines" type="rss" xmlUrl="http://www.parisguardian.com/index.php/rss/fab36d240e1883d4" htmlUrl="http://www.parisguardian.com/index.php/cat/fab36d240e1883d4/"/>
+   <outline title="france - WordPress.com Search" type="rss" xmlUrl="http://en.search.wordpress.com/?q=france&amp;f=feed" htmlUrl="http://en.search.wordpress.com/?q=france"/>
+   <outline title="rss for &quot;france /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/france+/news+/rss" htmlUrl="http://www.thestar.com/news/canada/2013/11/04/ottawa_man_wanted_in_france_bombing_challenges_extradition.html"/>
+  </outline>
+  <outline title="FYR Macedonia" icon="">
+   <outline title="World news: Macedonia | guardian.co.uk" type="rss" xmlUrl="http://www.theguardian.com/world/macedonia/rss" htmlUrl="http://www.theguardian.com/world/macedonia"/>
+   <outline title="News Search: 'fyr macedonia' (en_US)" query="fyr macedonia" engines="google-news,bing-news,yahoo-news" lang="en_US" locale="en_US"/>
+   <outline title="Latest News from Macedonia" type="rss" xmlUrl="http://www.balkaninsight.com/en/rss/macedonia-news-latest" htmlUrl="http://www.balkaninsight.com/en/rss/macedonia-news-latest"/>
+   <outline title="Macedonian News Agency | Kurir.mk" type="rss" xmlUrl="http://kurir.mk/en/feed/" htmlUrl="http://kurir.mk/en"/>
+   <outline title="Social Search: 'government of macedonia' (en_GB)" query="government of macedonia" engines="facebook-search,twitter-search" lang="en_GB" locale="en_GB"/>
+  </outline>
+  <outline title="germany" icon="">
+   <outline title="World news: Germany | theguardian.com" type="rss" xmlUrl="http://www.theguardian.com/world/germany/rss" htmlUrl="http://www.theguardian.com/world/germany"/>
+   <outline title="germany - Google News" type="rss" xmlUrl="http://news.google.com/news?q=germany&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=germany"/>
+   <outline title="germany yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=germany&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="germany - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=germany&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=germany&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="germany - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=germany&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=germany&amp;tbm=blg"/>
+   <outline title="Deutsche Welle: DW-WORLD.DE - Germany" type="rss" xmlUrl="http://rss.dw.de/rdf/rss-en-ger" htmlUrl="http://www.dw.de/dw/0,,1432,00.html?maca=en-rss-en-ger-1023-rdf"/>
+   <outline title="SPIEGEL ONLINE - International" type="rss" xmlUrl="http://www.spiegel.de/international/germany/index.rss" htmlUrl="http://www.spiegel.de"/>
+   <outline title="German Politics" type="rss" xmlUrl="http://www.economist.com/topics/german-politics/index.xml" htmlUrl="http://www.economist.com/topics/german-politics"/>
+   <outline title="Social Search: 'germany news' (en_US)" query="germany news" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+   <outline title="Germany - Activity on GOV.UK" type="rss" xmlUrl="https://www.gov.uk/government/world/germany.atom" htmlUrl="https://www.gov.uk/government"/>
+   <outline title="germany - WordPress.com Search" type="rss" xmlUrl="http://en.search.wordpress.com/?q=germany&amp;f=feed" htmlUrl="http://en.search.wordpress.com/?q=germany"/>
+   <outline title="rss for &quot;germany /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/germany+/news+/rss" htmlUrl="http://www.tri-cityherald.com/2013/11/05/2658676/germany-1400-paintings-found-at.html"/>
+  </outline>
+  <outline title="greece" icon="">
+   <outline title="greece - Google News" type="rss" xmlUrl="http://news.google.com/news?q=greece&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=greece"/>
+   <outline title="Guardian news - Greece" type="rss" xmlUrl="http://www.theguardian.com/world/greece/rss" htmlUrl="http://www.theguardian.com/world/greece"/>
+   <outline title="greece yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=greece&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="greece - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=greece&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=greece&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="greece - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=greece&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=greece&amp;tbm=blg"/>
+   <outline title="&lt;a href=&quot;http:&amp;#x2F;&amp;#x2F;www.athens-times.com&quot; target=&quot;_blank&quot;&gt;Athens Times&lt;/a&gt;" type="rss" xmlUrl="http://www.athens-times.com/feed/" htmlUrl="http://www.athens-times.com"/>
+   <outline title="NYT &amp;gt; Greece" type="rss" xmlUrl="http://topics.nytimes.com/top/news/international/countriesandterritories/greece/index.html?rss=1" htmlUrl="http://topics.nytimes.com/top/news/international/countriesandterritories/greece/index.html?"/>
+   <outline title="Social Search" query="ukingreece" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+   <outline title="Greece News latest RSS headlines" type="rss" xmlUrl="http://www.greekherald.com/index.php/rss/48158b5a5afd369b" htmlUrl="http://www.greekherald.com/index.php/cat/48158b5a5afd369b/"/>
+   <outline title="rss for &quot;greece /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/greece+/news+/rss" htmlUrl="http://online.wsj.com/article/SB10001424052702304441404579119180237594344.html?mod=wsj_india_main"/>
+  </outline>
+  <outline title="hungary" icon="">
+   <outline title="hungary - Google News" type="rss" xmlUrl="http://news.google.com/news?q=hungary&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=hungary"/>
+   <outline title="World news: Hungary | guardian.co.uk" type="rss" xmlUrl="http://www.theguardian.com/world/hungary/rss" htmlUrl="http://www.theguardian.com/world/hungary"/>
+   <outline title="hungary yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=hungary&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="hungary - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=hungary&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=hungary&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="hungary - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=hungary&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=hungary&amp;tbm=blg"/>
+   <outline title="Allhungary.hu: Group's latest news" type="rss" xmlUrl="http://www.allhungary.hu/represent_feeds.xml" htmlUrl="http://www.allhungary.hu/"/>
+   <outline title="Government - News" type="rss" xmlUrl="http://www.kormany.hu/rss/en/news" htmlUrl="http://www.kormany.hu/en/news"/>
+   <outline title="Latest news - Budapest Business Journal - BBJ.hu" type="rss" xmlUrl="http://www.bbj.hu/assets/rss/rss.php" htmlUrl="http://www.bbj.hu/"/>
+   <outline title="Prime Minister's Office - News" type="rss" xmlUrl="http://www.kormany.hu/rss/en/prime-minister-s-office/news" htmlUrl="http://www.kormany.hu/en/prime-minister-s-office/news"/>
+   <outline title="Visegradrevue" type="rss" xmlUrl="http://visegradrevue.eu/?feed=rss2" htmlUrl="http://visegradrevue.eu"/>
+   <outline title="rss for &quot;hungary /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/hungary+/news+/rss" htmlUrl="http://www.timesleader.com/stories/Croatian-minister-sentenced-to-prison-in-Hungary,229456?category_id=103&amp;town_id=1&amp;sub_type=stories"/>
+   <outline title="Social Search: 'hungary' (en_GB)" query="hungary" engines="facebook-search,twitter-search" lang="en_GB" locale="en_GB"/>
+  </outline>
+  <outline title="iceland" icon="">
+   <outline title="World news: Iceland | theguardian.com" type="rss" xmlUrl="http://www.theguardian.com/world/iceland/rss" htmlUrl="http://www.theguardian.com/world/iceland"/>
+   <outline title="Iceland" type="rss" xmlUrl="http://www.economist.com/topics/iceland/index.xml" htmlUrl="http://www.economist.com/topics/iceland"/>
+   <outline title="News Search: 'iceland' (en_US)" query="iceland" engines="google-news,bing-news,yahoo-news" lang="en_US" locale="en_US"/>
+   <outline title="News of Iceland - Online News Source - All categories" type="rss" xmlUrl="http://www.newsoficeland.com/home/all-news?format=feed" htmlUrl="http://www.newsoficeland.com"/>
+   <outline title="Blog Search: 'iceland' (en_US)" query="iceland" engines="google-blog,twingly" lang="en_US" locale="en_US"/>
+   <outline title="Social Search: 'iceland news' (en_US)" query="iceland news" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+  </outline>
+  <outline title="ireland" icon="">
+   <outline title="World news: Ireland | theguardian.com" type="rss" xmlUrl="http://feeds.theguardian.com/theguardian/world/ireland/rss" htmlUrl="http://www.theguardian.com/world/ireland"/>
+   <outline title="ireland - Google News" type="rss" xmlUrl="http://news.google.com/news?q=ireland&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=ireland"/>
+   <outline title="ireland yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=ireland&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="ireland - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=ireland&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=ireland&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="ireland - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=ireland&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=ireland&amp;tbm=blg"/>
+   <outline title="RTÉ News - News Headlines" type="rss" xmlUrl="http://www.rte.ie/news/rss/news-headlines.xml" htmlUrl="http://www.rte.ie/news"/>
+   <outline title="Social Search: 'ireland' (en_US)" query="ireland" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+   <outline title="ireland - WordPress.com Search" type="rss" xmlUrl="http://en.search.wordpress.com/?q=ireland&amp;f=feed" htmlUrl="http://en.search.wordpress.com/?q=ireland"/>
+   <outline title="rss for &quot;ireland /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/ireland+/news+/rss" htmlUrl="http://www.thestate.com/2013/10/04/3019482/britain-ireland-trim-europes-lead.html"/>
+  </outline>
+  <outline title="italy" icon="">
+   <outline title="italy - Google News" type="rss" xmlUrl="http://news.google.com/news?q=italy&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=italy"/>
+   <outline title="Guardian Italy | guardian.co.uk" type="rss" xmlUrl="http://www.theguardian.com/world/italy/rss" htmlUrl="http://www.theguardian.com/world/italy"/>
+   <outline title="italy yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=italy&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="italy - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=italy&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=italy&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="italy - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=italy&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=italy&amp;tbm=blg"/>
+   <outline title="News di English News - ANSA.it" type="rss" xmlUrl="http://ansa.feedsportal.com/c/34225/f/621716/index.rss" htmlUrl="http://www.ansa.it/web/notizie/rubriche/english/english.shtml"/>
+   <outline title="AKI - Breaking News" type="rss" xmlUrl="http://rss.feedsportal.com/c/32375/f/448662/index.rss" htmlUrl="http://www.adnkronos.com/IGN/Aki/English"/>
+   <outline title="Ministero degli affari esteri -" type="rss" xmlUrl="http://www.esteri.it/mae/webform/FeedRSS_EN.aspx?tipo=1" htmlUrl="http://www.esteri.gov.it"/>
+   <outline title="Italian Politics" type="rss" xmlUrl="http://www.economist.com/topics/italian-politics/index.xml" htmlUrl="http://www.economist.com/topics/italian-politics"/>
+   <outline title="Social Search: 'ukinitaly' (en_US)" query="ukinitaly" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+   <outline title="rss for &quot;italy /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/italy+/news+/rss" htmlUrl="http://bostonherald.com/news_opinion/international/europe/2013/10/italy_hundreds_protest_funeral_for_nazi_criminal"/>
+   <outline title="italy - WordPress.com Search" type="rss" xmlUrl="http://en.search.wordpress.com/?q=italy&amp;f=feed" htmlUrl="http://en.search.wordpress.com/?q=italy"/>
+  </outline>
+  <outline title="kosovo" icon="">
+   <outline title="World news: Kosovo | theguardian.com" type="rss" xmlUrl="http://www.theguardian.com/world/kosovo/rss" htmlUrl="http://www.theguardian.com/world/kosovo"/>
+   <outline title="News Search: 'kosovo' (en_US)" query="kosovo" engines="bing-news,yahoo-news" lang="en_US" locale="en_US"/>
+   <outline title="News Search: 'kosovo' (en_US)" query="kosovo" engines="bing-news,yahoo-news" lang="en_US" locale="en_US"/>
+   <outline title="Blog Search: 'kosovo' (en_US)" query="kosovo" engines="google-blog,twingly" lang="en_US" locale="en_US"/>
+   <outline title="Blog Search: 'kosovo' (en_US)" query="kosovo" engines="google-blog,twingly" lang="en_US" locale="en_US"/>
+   <outline title="Kosovo - Activity on GOV.UK" type="rss" xmlUrl="https://www.gov.uk/government/world/kosovo.atom" htmlUrl="https://www.gov.uk/government"/>
+   <outline title="Social Search" query="kosovo" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+   <outline title="Social Search: 'kosovo' (en_US)" query="kosovo" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+  </outline>
+  <outline title="latvia" icon="">
+   <outline title="Latvia - Activity on GOV.UK" type="rss" xmlUrl="https://www.gov.uk/government/world/latvia.atom" htmlUrl="https://www.gov.uk/government"/>
+   <outline title="World news: Latvia | theguardian.com" type="rss" xmlUrl="http://www.theguardian.com/world/latvia/rss" htmlUrl="http://www.theguardian.com/world/latvia"/>
+   <outline title="latvia - Google News" type="rss" xmlUrl="http://news.google.com/news?q=latvia&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=latvia"/>
+   <outline title="latvia yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=latvia&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="latvia - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=latvia&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=latvia&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="latvia - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=latvia&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=latvia&amp;tbm=blg"/>
+   <outline title="News from Estonia, Latvia and Lithuania. The Baltic Times." type="rss" xmlUrl="http://feeds.feedburner.com/TheBalticTimes" htmlUrl="http://www.baltictimes.com"/>
+   <outline title="latvia - WordPress.com Search" type="rss" xmlUrl="http://en.search.wordpress.com/?q=latvia&amp;f=feed" htmlUrl="http://en.search.wordpress.com/?q=latvia"/>
+   <outline title="rss for &quot;latvia /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/latvia+/news+/rss" htmlUrl="http://www.plaintalk.net/cms/news/story-186858.html"/>
+  </outline>
+  <outline title="liechtenstein" icon="">
+   <outline title="News Search: 'liechtenstein' (en_US)" query="liechtenstein" engines="bing-news,yahoo-news" lang="en_US" locale="en_US"/>
+   <outline title="Blog Search: 'liechtenstein' (en_US)" query="liechtenstein" engines="google-blog,twingly" lang="en_US" locale="en_US"/>
+   <outline title="Social Search: 'liechtenstein' (en_US)" query="liechtenstein" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+  </outline>
+  <outline title="lithuania" icon="">
+   <outline title="lithuania - Google News" type="rss" xmlUrl="http://news.google.com/news?q=lithuania&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=lithuania"/>
+   <outline title="World news: Lithuania | theguardian.com" type="rss" xmlUrl="http://www.theguardian.com/world/lithuania/rss" htmlUrl="http://www.theguardian.com/world/lithuania"/>
+   <outline title="lithuania yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=lithuania&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="lithuania - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=lithuania&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=lithuania&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="lithuania - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=lithuania&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=lithuania&amp;tbm=blg"/>
+   <outline title="LR government news" type="rss" xmlUrl="http://www.lrv.lt/rss/rss.php?cats=3&amp;lang=en" htmlUrl="http://liftoff.msfc.nasa.gov/"/>
+   <outline title="News from Estonia, Latvia and Lithuania. The Baltic&#10;Times." type="rss" xmlUrl="http://feeds.feedburner.com/TheBalticTimes" htmlUrl="http://www.baltictimes.com"/>
+   <outline title="Social Search: 'lithuania' (en_US)" query="lithuania" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+   <outline title="lithuania - WordPress.com Search" type="rss" xmlUrl="http://en.search.wordpress.com/?q=lithuania&amp;f=feed" htmlUrl="http://en.search.wordpress.com/?q=lithuania"/>
+   <outline title="rss for &quot;lithuania /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/lithuania+/news+/rss" htmlUrl="http://www.chicagoreader.com/chicago/reminiscences-of-a-journey-to-lithuania/Film?oid=1066690&amp;feature=Critic's%20Choice"/>
+  </outline>
+  <outline title="luxembourg" icon="">
+   <outline title="luxembourg - Google News" type="rss" xmlUrl="http://news.google.com/news?q=luxembourg&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=luxembourg"/>
+   <outline title="World news: Luxembourg | theguardian.com" type="rss" xmlUrl="http://www.theguardian.com/world/luxembourg/rss" htmlUrl="http://www.theguardian.com/world/luxembourg"/>
+   <outline title="luxembourg yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=luxembourg&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="luxembourg - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=luxembourg&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=luxembourg&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="luxembourg - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=luxembourg&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=luxembourg&amp;tbm=blg"/>
+   <outline title="wort.lu" type="rss" xmlUrl="http://www.wort.lu/rss/en" htmlUrl="http://www.wort.lu"/>
+   <outline title="Social Search: 'luxembourg news' (en_US)" query="luxembourg news" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+   <outline title="luxembourg - WordPress.com Search" type="rss" xmlUrl="http://en.search.wordpress.com/?q=luxembourg&amp;f=feed" htmlUrl="http://en.search.wordpress.com/?q=luxembourg"/>
+   <outline title="rss for &quot;luxembourg /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/luxembourg+/news+/rss" htmlUrl="http://www.jsonline.com/story/index.aspx?id=783502"/>
+  </outline>
+  <outline title="malta" icon="">
+   <outline title="malta - Google News" type="rss" xmlUrl="http://news.google.com/news?q=malta&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=malta"/>
+   <outline title="Guardian news - Malta" type="rss" xmlUrl="http://www.theguardian.com/world/malta/rss" htmlUrl="http://www.theguardian.com/world/malta"/>
+   <outline title="malta - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=malta&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=malta&amp;tbm=blg"/>
+   <outline title="malta yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=malta&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="malta - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=malta&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=malta&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="MaltaToday - Latest NEWS" type="rss" xmlUrl="http://www.maltatoday.com.mt/news/RSSFeed.rss" htmlUrl="http://85.119.122.3:8000/news/RSSFeed.rss"/>
+   <outline title="&lt;a href=&quot;http:&amp;#x2F;&amp;#x2F;www.timesofmalta.com&amp;#x2F;&quot; target=&quot;_blank&quot;&gt;timesofmalta.com&lt;/a&gt;" type="rss" xmlUrl="http://www.timesofmalta.com/rss" htmlUrl="http://www.timesofmalta.com/"/>
+   <outline title="The Malta Independent - News" type="rss" xmlUrl="http://www.independent.com.mt/rss/news-51118080/?___c=___c" htmlUrl="http://www.independent.com.mt/articles/news-51118080/"/>
+   <outline title="rss for &quot;malta /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/malta+/news+/rss" htmlUrl="http://www.timesleader.com/stories/Malta-hosts-first-Europe-Arab-summit-in-a-decade,213404"/>
+   <outline title="Social Search: 'maltatoday' (en_US)" query="maltatoday" engines="facebook-search,twitter-search,boardreader,google-plus-search" lang="en_US" locale="en_US"/>
+   <outline title="malta - WordPress.com Search" type="rss" xmlUrl="http://en.search.wordpress.com/?q=malta&amp;f=feed" htmlUrl="http://en.search.wordpress.com/?q=malta"/>
+   <outline title="Social Search" query="MaltaGovGazette" engines="facebook-search,twitter-search,boardreader,google-plus-search" lang="en_US" locale="en_US"/>
+  </outline>
+  <outline title="Montenegro" icon="">
+   <outline title="News Search: 'turkey' (en_US)" query="turkey" engines="google-news,bing-news,yahoo-news" lang="en_US" locale="en_US"/>
+   <outline title="World news: Montenegro | theguardian.com" type="rss" xmlUrl="http://www.theguardian.com/world/montenegro/rss" htmlUrl="http://www.theguardian.com/world/montenegro"/>
+   <outline title="Latest News from Montenegro" type="rss" xmlUrl="http://www.balkaninsight.com/en/rss/montenegro-news-latest" htmlUrl="http://www.balkaninsight.com/en/rss/montenegro-news-latest"/>
+   <outline title="Blog Search: 'montenegro' (en_US)" query="montenegro" engines="google-blog,twingly" lang="en_US" locale="en_US"/>
+  </outline>
+  <outline title="netherlands" icon="">
+   <outline title="netherlands - Google News" type="rss" xmlUrl="http://news.google.com/news?q=netherlands&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=netherlands"/>
+   <outline title="World news: Netherlands | theguardian.com" type="rss" xmlUrl="http://www.theguardian.com/world/netherlands/rss" htmlUrl="http://www.theguardian.com/world/netherlands"/>
+   <outline title="Bristish Ambassador to the Netherlands" type="rss" xmlUrl="http://feeds.feedburner.com/BloggerPaulArkwright" htmlUrl="http://blogs.fco.gov.uk/paularkwright"/>
+   <outline title="FCO - Inside Government - Netherlands" type="rss" xmlUrl="https://www.gov.uk/government/world/netherlands.atom" htmlUrl="https://www.gov.uk/government"/>
+   <outline title="netherlands yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=netherlands&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="netherlands - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=netherlands&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=netherlands&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="netherlands - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=netherlands&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=netherlands&amp;tbm=blg"/>
+   <outline title="News from DutchNews.nl" type="rss" xmlUrl="http://www.dutchnews.nl/news/atom.xml" htmlUrl="http://www.dutchnews.nl/news/"/>
+   <outline title="Government.nl - News items" type="rss" xmlUrl="http://feeds.government.nl/news.rss" htmlUrl="http://www.government.nl/"/>
+   <outline title="Social Search: 'netherlands' (en_US)" query="netherlands" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+   <outline title="rss for &quot;netherlands /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/netherlands+/news+/rss" htmlUrl="http://www.star-telegram.com/2013/10/04/5219915/netherlands-seeks-to-recover-greenpeace.html"/>
+  </outline>
+  <outline title="norway" icon="">
+   <outline title="World news: Norway | theguardian.com" type="rss" xmlUrl="http://www.theguardian.com/world/norway/rss" htmlUrl="http://www.theguardian.com/world/norway"/>
+   <outline title="Norway - Activity on GOV.UK" type="rss" xmlUrl="https://www.gov.uk/government/world/norway.atom" htmlUrl="https://www.gov.uk/government"/>
+   <outline title="News Search: 'norway' (en_US)" query="norway" engines="google-news,bing-news,yahoo-news" lang="en_US" locale="en_US"/>
+   <outline title="The Oslo Times » Norway" type="rss" xmlUrl="http://www.theoslotimes.com/category/norway-3/feed/" htmlUrl="http://www.theoslotimes.com"/>
+   <outline title="NORWAYTODAY.info Feed" type="rss" xmlUrl="http://www.norwaytoday.info/rss_headlines.php" htmlUrl="http://www.norwaytoday.info"/>
+   <outline title="TNP - News from Norway" type="rss" xmlUrl="http://www.tnp.no/rss.php" htmlUrl="http://www.tnp.no/rss.php"/>
+   <outline title="The Foreigner &amp;#x2F; Norwegian News in English" type="rss" xmlUrl="http://feeds2.feedburner.com/The-Foreigner" htmlUrl="http://theforeigner.no/"/>
+   <outline title="Blog Search: 'norway' (en_US)" query="norway" engines="google-blog,twingly,wordpress" lang="en_US" locale="en_US"/>
+   <outline title="Social Search: 'norway' (en_US)" query="norway" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+  </outline>
+  <outline title="poland" icon="">
+   <outline title="poland - Google News" type="rss" xmlUrl="http://news.google.com/news?q=poland&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=poland"/>
+   <outline title="World news: Poland | guardian.co.uk" type="rss" xmlUrl="http://www.theguardian.com/world/poland/rss" htmlUrl="http://www.theguardian.com/world/poland"/>
+   <outline title="poland yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=poland&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="poland - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=poland&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=poland&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="poland - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=poland&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=poland&amp;tbm=blg"/>
+   <outline title="Krakow Post" type="rss" xmlUrl="http://www.krakowpost.com/feed" htmlUrl="http://www.krakowpost.com"/>
+   <outline title="Visegradrevue" type="rss" xmlUrl="http://visegradrevue.eu/?feed=rss2" htmlUrl="http://visegradrevue.eu"/>
+   <outline title="Social Search" query="ukinpoland" engines="facebook-search,twitter-search" lang="en_GB" locale="en_GB"/>
+   <outline title="Robin Barnett" type="rss" xmlUrl="http://feeds.feedburner.com/FCOBloggerRobinBarnett" htmlUrl="http://blogs.fco.gov.uk/robinbarnett"/>
+  </outline>
+  <outline title="portugal" icon="">
+   <outline title="portugal - Google News" type="rss" xmlUrl="http://news.google.com/news?q=portugal&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=portugal"/>
+   <outline title="Guardian news - Portugal" type="rss" xmlUrl="http://www.theguardian.com/world/portugal/rss" htmlUrl="http://www.theguardian.com/world/portugal"/>
+   <outline title="portugal - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=portugal&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=portugal&amp;tbm=blg"/>
+   <outline title="portugal - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=portugal&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=portugal&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="portugal yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=portugal&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="Portugal Daily View" type="rss" xmlUrl="http://www.portugaldailyview.com/feed" htmlUrl="http://www.portugaldailyview.com"/>
+   <outline title="As notícias do Governo" type="rss" xmlUrl="http://www.portugal.gov.pt/en/keep-updated/rss" htmlUrl="http://www.portugal.gov.pt/en/keep-updated.aspx"/>
+   <outline title="Social Search" query="ukinportugal" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+   <outline title="portugal - WordPress.com Search" type="rss" xmlUrl="http://en.search.wordpress.com/?q=portugal&amp;f=feed" htmlUrl="http://en.search.wordpress.com/?q=portugal"/>
+   <outline title="rss for &quot;portugal /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/portugal+/news+/rss" htmlUrl="http://www.nydailynews.com/sports/euro-2012/euro-2012-czech-republic-prepares-thursday-semifinal-deciding-match-portugal-strength-cristiano-ronaldo-remains-major-fear-article-1.1099117"/>
+  </outline>
+  <outline title="romania" icon="">
+   <outline title="romania - Google News" type="rss" xmlUrl="http://news.google.com/news?q=romania&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=romania"/>
+   <outline title="World news: Romania | guardian.co.uk" type="rss" xmlUrl="http://www.theguardian.com/world/romania/rss" htmlUrl="http://www.theguardian.com/world/romania"/>
+   <outline title="romania yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=romania&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="romania - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=romania&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=romania&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="romania - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=romania&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=romania&amp;tbm=blg"/>
+   <outline title="Latest News from Romania" type="rss" xmlUrl="http://www.balkaninsight.com/en/rss/romania-news-latest" htmlUrl="http://www.balkaninsight.com/en/rss/romania-news-latest"/>
+   <outline title="Social Search" query="ukinromania" engines="facebook-search,twitter-search" lang="en_GB" locale="en_GB"/>
+   <outline title="rss" type="rss" xmlUrl="http://www.theguardian.com/world/romania/rss" htmlUrl="http://www.theguardian.com/world/romania"/>
+   <outline title="romania - WordPress.com Search" type="rss" xmlUrl="http://en.search.wordpress.com/?q=romania&amp;f=feed" htmlUrl="http://en.search.wordpress.com/?q=romania"/>
+   <outline title="rss for &quot;romania /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/romania+/news+/rss" htmlUrl="http://www.timesleader.com/stories/Populist-emerges-in-Romanias-bitter-election,238292?category_id=103&amp;town_id=1&amp;sub_type=stories"/>
+  </outline>
+  <outline title="Serbia" icon="">
+   <outline title="World news: Serbia | guardian.co.uk" type="rss" xmlUrl="http://www.theguardian.com/world/serbia/rss" htmlUrl="http://www.theguardian.com/world/serbia"/>
+   <outline title="News Search: 'serbia' (en_US)" query="serbia" engines="google-news,bing-news,yahoo-news" lang="en_US" locale="en_US"/>
+   <outline title="Latest News from Serbia" type="rss" xmlUrl="http://www.balkaninsight.com/en/rss/serbia-news-latest" htmlUrl="http://www.balkaninsight.com/en/rss/serbia-news-latest"/>
+   <outline title="Blog Search: 'serbia' (en_US)" query="serbia" engines="google-blog,twingly" lang="en_US" locale="en_US"/>
+   <outline title="Social Search: 'serbia' (en_US)" query="serbia" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+  </outline>
+  <outline title="spain" icon="">
+   <outline title="World news: Spain | guardian.co.uk" type="rss" xmlUrl="http://feeds.theguardian.com/theguardian/world/spain/rss" htmlUrl="http://www.theguardian.com/world/spain"/>
+   <outline title="Spanish news, all the latest and breaking news in Spain" type="rss" xmlUrl="http://www.telegraph.co.uk/news/worldnews/europe/spain/rss" htmlUrl="http://www.telegraph.co.uk/news/worldnews/europe/spain/"/>
+   <outline title="Spanish Politics" type="rss" xmlUrl="http://www.economist.com/topics/spanish-politics/index.xml" htmlUrl="http://www.economist.com/topics/spanish-politics"/>
+   <outline title="UK in Spain news feed" type="rss" xmlUrl="https://www.gov.uk/government/world/spain.atom" htmlUrl="https://www.gov.uk/government"/>
+   <outline title="spain - Google News" type="rss" xmlUrl="http://news.google.com/news?pz=1&amp;cf=all&amp;ned=us&amp;hl=en&amp;q=spain&amp;cf=all&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=spain"/>
+   <outline title="spain - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=spain&amp;tbm=blg&amp;output=rss" htmlUrl="http://www.google.com/search?hl=en&amp;q=spain&amp;tbm=blg"/>
+   <outline title="spain Yahoo News" type="rss" xmlUrl="http://news.search.yahoo.com/rss?fr=sfp&amp;sort=time&amp;p=spain" htmlUrl=""/>
+   <outline title="BoardReader: 'spain' (en_US)" query="spain" engines="boardreader" lang="en_US" locale="en_US"/>
+   <outline title="In English Section | EL PAÍS" type="rss" xmlUrl="http://ep01.epimg.net/rss/elpais/inenglish.xml" htmlUrl="http://elpais.com/rss/elpais/inenglish.xml"/>
+   <outline title="Catalan News Agency" type="rss" xmlUrl="http://www.catalannewsagency.com/feed.xml" htmlUrl="http://www.catalannewsagency.com/all/%2A"/>
+   <outline title="La Moncloa - Highlights" type="rss" xmlUrl="http://www.lamoncloa.gob.es/utilidades/rss.aspx?tipo=02I" htmlUrl="http://www.lamoncloa.gob.es/IDIOMAS/9/Gobierno/News/"/>
+   <outline title="La Moncloa - President-Highlights" type="rss" xmlUrl="http://www.lamoncloa.gob.es/utilidades/rss.aspx?tipo=01I" htmlUrl="http://www.lamoncloa.gob.es/IDIOMAS/9/Presidente/News/"/>
+   <outline title="spain - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=spain&amp;qpvt=spain&amp;mkt=en-US&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=spain&amp;qpvt=spain&amp;mkt=en-US&amp;format=RSS"/>
+   <outline title="Recent Uploads tagged spain" type="rss" xmlUrl="http://api.flickr.com/services/feeds/photos_public.gne?tags=spain&amp;tagmode=all&amp;mt=photos&amp;adv=1&amp;s=rec&amp;format=atom" htmlUrl="http://www.flickr.com/photos/tags/spain/"/>
+   <outline title="rss for &quot;spain /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/spain+/news+/rss" htmlUrl="http://www.uppermichiganssource.com/london2012?id=23773863"/>
+   <outline title="Twitter search: 'catalonia' (en_US)" query="catalonia" engines="twitter-search" lang="en_US" locale="en_US"/>
+   <outline title="spain - WordPress.com Search" type="rss" xmlUrl="http://en.search.wordpress.com/?q=spain&amp;f=feed" htmlUrl="http://en.search.wordpress.com/?q=spain"/>
+   <outline title="Twitter search: 'spain' (en_US)" query="spain" engines="twitter-search" lang="en_US" locale="en_US"/>
+  </outline>
+  <outline title="slovakia" icon="">
+   <outline title="slovakia - Google News" type="rss" xmlUrl="http://news.google.com/news?q=slovakia&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=slovakia"/>
+   <outline title="World news: Slovakia | guardian.co.uk" type="rss" xmlUrl="http://www.theguardian.com/world/slovakia/rss" htmlUrl="http://www.theguardian.com/world/slovakia"/>
+   <outline title="slovakia yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=slovakia&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="slovakia - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=slovakia&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=slovakia&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="slovakia - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=slovakia&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=slovakia&amp;tbm=blg"/>
+   <outline title="The Slovak Spectator" type="rss" xmlUrl="http://spectator.sme.sk/articles/rss" htmlUrl="http://spectator.sme.sk"/>
+   <outline title="Visegradrevue" type="rss" xmlUrl="http://visegradrevue.eu/?feed=rss2" htmlUrl="http://visegradrevue.eu"/>
+   <outline title="Social Search" query="ukinslovakia" engines="facebook-search,twitter-search" lang="en_GB" locale="en_GB"/>
+   <outline title="rss for &quot;slovakia /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/slovakia+/news+/rss" htmlUrl="http://www.nytimes.com/2013/09/14/world/europe/14iht-letter14.html"/>
+  </outline>
+  <outline title="slovenia" icon="">
+   <outline title="slovenia - Google News" type="rss" xmlUrl="http://news.google.com/news?q=slovenia&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=slovenia"/>
+   <outline title="World news: Slovenia | guardian.co.uk" type="rss" xmlUrl="http://www.theguardian.com/world/slovenia/rss" htmlUrl="http://www.theguardian.com/world/slovenia"/>
+   <outline title="slovenia yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=slovenia&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="slovenia - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=slovenia&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=slovenia&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="slovenia - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=slovenia&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=slovenia&amp;tbm=blg"/>
+   <outline title="Slovenian Press Agency" type="rss" xmlUrl="http://www.sta.si/en/rss.php?t=0" htmlUrl="http://www.sta.si/en/"/>
+   <outline title="Sloveniatimes.com - Rss" type="rss" xmlUrl="http://www.sloveniatimes.com/rss?category_id=1" htmlUrl="http://www.sloveniatimes.com/"/>
+   <outline title="Social Search" query="ukinslovenia" engines="facebook-search,twitter-search" lang="en_GB" locale="en_GB"/>
+   <outline title="slovenia - WordPress.com Search" type="rss" xmlUrl="http://en.search.wordpress.com/?q=slovenia&amp;f=feed" htmlUrl="http://en.search.wordpress.com/?q=slovenia"/>
+   <outline title="rss for &quot;slovenia /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/slovenia+/news+/rss" htmlUrl="http://www.wtvh.com/sports/photos.aspx?id=472179"/>
+  </outline>
+  <outline title="sweden" icon="">
+   <outline title="sweden - Google News" type="rss" xmlUrl="http://news.google.com/news?q=sweden&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=sweden"/>
+   <outline title="World news: Sweden | theguardian.com" type="rss" xmlUrl="http://www.theguardian.com/world/sweden/rss" htmlUrl="http://www.theguardian.com/world/sweden"/>
+   <outline title="sweden yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=sweden&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="sweden - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=sweden&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=sweden&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="sweden - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=sweden&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=sweden&amp;tbm=blg"/>
+   <outline title="News" type="rss" xmlUrl="http://www.swedishwire.com/h" htmlUrl="http://www.swedishwire.com"/>
+   <outline title="News from the Swedish Government" type="rss" xmlUrl="http://www.regeringen.se/rss/feed/79539" htmlUrl="http://www.government.se"/>
+   <outline title="Social Search: 'sweden eu' (en_US)" query="sweden eu" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+   <outline title="sweden - WordPress.com Search" type="rss" xmlUrl="http://en.search.wordpress.com/?q=sweden&amp;f=feed" htmlUrl="http://en.search.wordpress.com/?q=sweden"/>
+   <outline title="rss for &quot;sweden /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/sweden+/news+/rss" htmlUrl="http://nypost.com/2013/11/01/tv-networks-looking-to-sweden-for-hit-shows/"/>
+  </outline>
+  <outline title="switzerland" icon="">
+   <outline title="switzerland - Google News" type="rss" xmlUrl="http://news.google.com/news?q=switzerland&amp;hl=en&amp;output=rss" htmlUrl="http://news.google.com/news?pz=1&amp;ned=us&amp;hl=en&amp;q=switzerland"/>
+   <outline title="World news: Switzerland | theguardian.com" type="rss" xmlUrl="http://www.theguardian.com/world/switzerland/rss" htmlUrl="http://www.theguardian.com/world/switzerland"/>
+   <outline title="switzerland yahoo news" type="rss" xmlUrl="http://news.search.yahoo.com/rss?ei=UTF-8&amp;p=switzerland&amp;fr=sfp&amp;sort=time" htmlUrl=""/>
+   <outline title="switzerland - Bing News" type="rss" xmlUrl="http://www.bing.com/news/search?q=switzerland&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS" htmlUrl="http://www.bing.com:80/news/search?q=switzerland&amp;setplang=en-US&amp;setmkt=en-US&amp;p1=%5bNewsVertical+SortByDate%3d%221%22%5d&amp;format=RSS"/>
+   <outline title="switzerland - Google Blog Search" type="rss" xmlUrl="http://www.google.com/search?hl=en&amp;q=switzerland&amp;tbm=blg&amp;output=atom" htmlUrl="http://www.google.com/search?hl=en&amp;q=switzerland&amp;tbm=blg"/>
+   <outline title="swissinfo.ch - National" type="rss" xmlUrl="http://www.swissinfo.ch/eng/swiss_news/index.html?view=rss&amp;cid=1221406" htmlUrl="http://www.swissinfo.ch/eng/index.html"/>
+   <outline title="The Local" type="rss" xmlUrl="http://www.thelocal.ch/feeds/rss.php" htmlUrl="http://www.thelocal.ch/"/>
+   <outline title="Federal Administration - Press releases and speeches" type="rss" xmlUrl="http://www.news.admin.ch/dienstleistungen/00008/index.html?lang=en&amp;rss-id=3_1" htmlUrl="http://www.news.admin.ch"/>
+   <outline title="Twitter search: 'switzerland news' (en_US)" query="switzerland news" engines="twitter-search" lang="en_US" locale="en_US"/>
+   <outline title="switzerland - WordPress.com Search" type="rss" xmlUrl="http://en.search.wordpress.com/?q=switzerland&amp;f=feed" htmlUrl="http://en.search.wordpress.com/?q=switzerland"/>
+   <outline title="rss for &quot;switzerland /news /rss&quot;" type="rss" xmlUrl="http://blekko.com/ws/switzerland+/news+/rss" htmlUrl="http://www.bradenton.com/2013/11/05/4811054/troicki-ban-cut-to-12-months-for.html"/>
+  </outline>
+  <outline title="Turkey" icon="">
+   <outline title="Guardian news - Turkey" type="rss" xmlUrl="http://www.theguardian.com/world/turkey/rss" htmlUrl="http://www.theguardian.com/world/turkey"/>
+   <outline title="Hurriyet Daily News" type="rss" xmlUrl="http://www.hurriyetdailynews.com/rss.aspx" htmlUrl="http://www.hurriyetdailynews.com/"/>
+   <outline title="TODAY'S ZAMAN :: Diplomacy" type="rss" xmlUrl="http://www.todayszaman.com/102.rss" htmlUrl="http://www.todayszaman.com/"/>
+   <outline title="Social Search: 'ukinturkey' (en_US)" query="ukinturkey" engines="facebook-search,twitter-search" lang="en_US" locale="en_US"/>
+  </outline>
+ </body>
+</opml>
