@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+""" from https://github.com/jamur2/rsscluster """
 import HTMLParser
 import codecs
 import datetime
@@ -78,21 +81,24 @@ def get_documents(feed):
         logging.error("Problem parsing %s !" % feed)
         return []
     for entry in parsed_feed.entries:
-        body = []
-        if hasattr(entry, 'content'):
-            for content in entry.content:
-                body += tokenize_html(content.value)
-        if hasattr(entry, 'summary'):
-            body += tokenize_html(entry.summary)
-            document = {
-                'id': entry.link,
-                'tokens': body,
-                'payload': {'feed': feed, 'title': entry.title},
-                'date': None
-            }
-            if hasattr(entry, 'published_parsed'):
-                document['date'] = entry.published_parsed
-        documents.append(document)
+        try:
+            body = []
+            if hasattr(entry, 'content'):
+                for content in entry.content:
+                    body += tokenize_html(content.value)
+            if hasattr(entry, 'summary'):
+                body += tokenize_html(entry.summary)
+                document = {
+                    'id': entry.link,
+                    'tokens': body,
+                    'payload': {'feed': feed, 'title': entry.title},
+                    'date': None
+                }
+                if hasattr(entry, 'published_parsed'):
+                    document['date'] = entry.published_parsed
+            documents.append(document)
+        except Exception, e:
+            print str(e)
     return documents
 
 
@@ -166,18 +172,21 @@ def main():
     if options.html:
         html_head(output_file)
     for document in documents:
-        published = document['date']
-        if (published and
-                published[0] == date.year and
-                published[1] == date.month and
-                published[2] == date.day):
-            similar_docs = [doc for doc in server.find_similar(document)
-                if (doc[1] > options.threshold and doc[0] != document['id'])]
-            if len(similar_docs) > 0:
-                if options.html:
-                    html_output(document, similar_docs, output_file)
-                else:
-                    text_output(document, similar_docs, output_file)
+        try:
+            published = document['date']
+            if (published and
+                    published[0] == date.year and
+                    published[1] == date.month and
+                    published[2] == date.day):
+                similar_docs = [doc for doc in server.find_similar(document)
+                    if (doc[1] > options.threshold and doc[0] != document['id'])]
+                if len(similar_docs) > 0:
+                    if options.html:
+                        html_output(document, similar_docs, output_file)
+                    else:
+                        text_output(document, similar_docs, output_file)
+        except Exception, e:
+            print(str(e))
     if options.html:
         html_foot(output_file)
     output_file.close()
